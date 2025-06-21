@@ -1,0 +1,39 @@
+# Designing Tools for Co-exploration: A Guideline to Support Remote Design Collaboration
+
+Author: **Xinhui Ye**  
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Visibility: Public
+
+## 📘 About this Project
+
+This repository contains the supplementary material and full-text article of:
+
+**Designing Tools for Co-exploration: A Guideline to Support Remote Design Collaboration**
+
+This mini research article presents the **DTC (Designing Tools for Co-exploration) guideline**, a structured set of design considerations developed to support **remote co-exploration** in design collaboration.
+
+The guideline was developed based on expert insights and structured around three conceptual spaces of collaboration:
+- **Meeting Space**
+- **Working Space**
+- **Project-specific Space**
+
+It offers practical prompts to help **tool designers** and **design teams** think critically about how to improve remote design collaboration—not by replicating co-located tools, but by addressing the social, material, and interactional dynamics that support emergent co-exploration.
+
+## 🧾 Abstract
+
+> Co-exploration plays an important role in collaborative design practices. It refers to the shared, emergent experience through which team members engage with design challenges together—merging, reflecting, diverging, refining in ways that propel the design forward. While this experience is reported to be significantly lost in remote collaboration, we investigate how to create conditions that enable co-exploration to occur when design teams are not co-located.  
+>  
+> This article presents the Designing Tools for Co-exploration (DTC) guideline, developed from expert visions of future remote design practices. Grounded in those insights, the guideline offers intermediate-level design knowledge to support remote co-exploration. The guideline—structured across three types of collaborative spaces—serves as a reflective prompt for tool developers and collaborating designers alike.  
+>  
+> This work is accepted (but not yet published) in the INTERACT 2025 conference. This GitHub version is made publicly available for early reference and citation.
+
+## 📂 Files
+
+- `main.pdf` — Full paper
+- `main.tex`, `main.bbl`, `references.bib` — Source files (LaTeX)
+- `figures/` — Supplementary images
+
+## 📣 Citation
+
+When citing this work, please use the following format:
+
